@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="CalificacionesJavadoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="staticMethods,screens,gui,threads,calificaciones" source="1.3" sourcepath="res;src" splitindex="true" use="true" version="true">
+            <link href="file:/C:/Users/Juako/.eclipse/org.eclipse.platform_3.6.1_912532343/plugins/net.rim.ejde.componentpack4.5.0_4.5.0.28/components/docs/api/"/>
+            <link href="file:/D:/Archivos%20Multimedia/Documentos/Workspace%20RIM/Calificaciones/doc/"/>
+        </javadoc>
+    </target>
+</project>

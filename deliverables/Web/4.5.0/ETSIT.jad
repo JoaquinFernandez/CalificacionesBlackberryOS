@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: ETSIT
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_os
+MIDlet-Jar-Size: 64135
+MIDlet-1: Calificaciones,img/ico.png,
+RIM-COD-Creation-Time: 1314715871
+MIDlet-Jar-URL: Calificaciones.jar
+RIM-COD-URL: ETSIT.cod
+RIM-COD-SHA1: 0c ea c7 b4 0a 83 58 fc 5d 4a 6f 21 1b 94 c0 f4 13 ce 15 76
+RIM-COD-Size: 25592
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.4
+MIDlet-Name: Calificaciones
+MIDlet-Vendor: JFM
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

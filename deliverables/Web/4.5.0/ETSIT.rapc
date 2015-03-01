@@ -1,0 +1,10 @@
+MIDlet-Name: Calificaciones
+MIDlet-Version: 1.4
+MIDlet-Vendor: JFM
+MIDlet-Jar-URL: Calificaciones.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Calificaciones,img/ico.png,
+RIM-MIDlet-Flags-1: 0
+
